@@ -1,0 +1,432 @@
+﻿Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Warning: The source vs_scanwatch is not registered on the local machine.
+Service vs_scanwatch is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Warning: The source vs_scanwatch is not registered on the local machine.
+Service vs_scanwatch is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source Service 1.
+Warning: The source Service 1 is not registered on the local machine.
+Service Service 1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Creating EventLog source vs_scanwatch in log Application...
+Rolling back assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Restoring event log to previous state for source vs_scanwatch.
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Warning: The source vs_scanwatch is not registered on the local machine.
+Service vs_scanwatch is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Installing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Installing service vs_scanwatch...
+Service vs_scanwatch has been successfully installed.
+Creating EventLog source vs_scanwatch in log Application...
+Committing assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.InstallLog
+   assemblypath = C:\Users\Aleksandar\source\repos\vs_scanwatch\vs_scanwatch\bin\Debug\vs_scanwatch.exe
+Removing EventLog source vs_scanwatch.
+Service vs_scanwatch is being removed from the system...
+Service vs_scanwatch was successfully removed from the system.
